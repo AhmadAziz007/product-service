@@ -6,3 +6,4 @@ Service produk untuk micro-ecommerce.
 2. go run main.go
 
 ## Menjalankan worker dengan rabbitmq
+1. go run main.go worker
